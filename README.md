@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Mohamedmsf9
-- 👀 I’m interested in Web devثlopment
+- 👀 I’m interested in Web development
 - 🌱 I’m currently learning javaScript
 
 <!---
