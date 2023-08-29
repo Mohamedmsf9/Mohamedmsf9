@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @Mohamedmsf9
-- 👀 I’m interested in 'Blockchain Dev'
 - 🌱 I’m currently learning javaScript
 
 <!---
